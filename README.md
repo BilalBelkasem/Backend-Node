@@ -19,7 +19,7 @@ Before setting up the project, ensure the following tools are installed:
 ## Installation and Setup
 
 ### 1. Clone the Repository
-git clone <repository-url> cd final-fantasy-api
+git clone 
 ### 2. Install Dependencies
 Run the following command to install all required Node.js packages:
 npm install
